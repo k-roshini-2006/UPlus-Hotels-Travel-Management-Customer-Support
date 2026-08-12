@@ -109,6 +109,9 @@ The working application was created and configured using Pega Platform.
 
 ## Repository Structure
 
+PEGA APPLICATION
+
+https://xep1jzgl.pegace.net/prweb/PRAuth/app/u-plus-hotels-tmcs/
 ```text
 UPlus-Hotels-TMCS/
 │
@@ -116,3 +119,5 @@ UPlus-Hotels-TMCS/
 ├── Documentation/
 ├── Screenshots/
 └── Pega/
+
+
